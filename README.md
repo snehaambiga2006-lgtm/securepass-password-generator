@@ -35,14 +35,30 @@ module has a single responsibility and no external services are involved.
 - Keyboard shortcuts (`Ctrl+G` generate, `Ctrl+Shift+C` copy)
 - Resizable layout
 
-## Screenshots
 
-Add screenshots to `assets/screenshots/` and reference them here, e.g.:
+## 📸 Screenshots
 
-```
-![Generator tab](assets/screenshots/generator.png)
-![Security Lab](assets/screenshots/security_lab.png)
-```
+### 🏠 Dashboard
+
+![SecurePass Dashboard](./assets/screenshots/Dashboard.png)
+
+---
+
+### 🔐 Password Generator
+
+![Password Generator](./assets/screenshots/Password_generator.png)
+
+---
+
+### 🔑 Passphrase Generator
+
+![Passphrase Generator](./assets/screenshots/Passphrase_Generator.png)
+
+---
+
+### 🛡️ Security Lab
+
+![Security Lab](./assets/screenshots/Security_lab.png)
 
 ## Technologies
 
